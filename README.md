@@ -1,4 +1,4 @@
-# Smart-AI-Email-Assistent
+# Smart-AI-Email-Assistant
 An intelligent AI-powered email automation assistant that generates smart auto-replies and helps you manage communication effortlessly.
 🤖 AI Auto-Reply Generator using Spring Boot + Spring AI + Gemini API
 
